@@ -13,7 +13,7 @@
 4. Вывести решение формулы.
 5. Конец.
 ### Блок-схема:
-![diagram](https://github.com/ArtificialEntity/Lab_05/blob/main/Диаграмма.png)
+![diagram](https://github.com/ArtificialEntity/Lab_05/blob/main/Lab_05_Diagram.png)
 ## 2. Реализация программы
 ```﻿#define _CRT_SECURE_NO_WARNINGS
 #define _USE_MATH_DEFINES
